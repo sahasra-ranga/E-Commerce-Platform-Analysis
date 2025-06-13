@@ -87,22 +87,27 @@ The first step to be taken is for the platform to understand the driving factors
 
 Lastly, let us analyse the payments methods used by customers.
 <img width="1162" alt="Screenshot 2025-06-13 at 2 21 30 PM" src="https://github.com/user-attachments/assets/e0fc850c-e680-482f-ac8d-6c68f4daa8e9" />
-Through the first graph, when we compare the proportion of complete orders to refunds for each payment type, a huge proportion of COD payments result in refunds. This could potentially be due to buyer's remorse, and causes revenue leakage. Hence, it would be best for business performance to further promote cashless payment options. 
+Through the first graph, when we compare the proportion of complete orders to refunds for each payment type, **a huge proportion of COD payments result in refunds**. This could potentially be due to buyer's remorse, and causes revenue leakage. Hence, it would be best for business performance to further promote cashless payment options. 
 For fraudulent orders, although PAYAXIS accounts for 9 out of 10 of them, we cannot draw any conclusions due to the extremely small sample size.
--- We can see there is a huge preference for cash on delivery. It could be due to customers feel a sense of assurance when they pay after receiving their products.
+-- We can see there is a **huge preference for cash on delivery**. It could be due to customers feel a sense of assurance when they pay after receiving their products.
 -- It could also indicate easy access to cash or limited cashless options.
--- The e-commerce platform can venture into the latest popular financial systems, such as EasyPaisa and SadaPay.
+-- The e-commerce platform can **venture into the latest popular financial systems, such as EasyPaisa and SadaPay.**
 -- EASYPAY, JAZZ, PAYAXIS and BANKALFALAH are other common payment methods, and to further increase user base using these methods, the platform can offer discounts and cashbacks when these methods are used, and improve customer experience and transparency related to online payment to garner trust.
 
 The last figure gives us new insights. The most common payment methods surprisingly do not have the greatest transaction value. Hence, payment methods such as "Finance Settlement" and "MCBLITE" indicate high-spending customers. To leverage upon this, the platform can run these key strategies:
-1. Promote high-ticket items (e.g. electronics, appliances) via exclusive campaigns using FINANCESETTLEMENT, MCBLITE, etc to boost sales of high-margin products through trusted, high-value channels.
+1. **Promote high-ticket items (e.g. electronics, appliances) via exclusive campaigns using FINANCESETTLEMENT, MCBLITE, etc **to boost sales of high-margin products through trusted, high-value channels.
 2. Partner with these payment providers to offer cashback or loyalty rewards for using their services which improves customer loyalty and incentivises use.
 3. When users choose high-ATV payment methods, show add-on bundles or premium services (e.g. extended warranty, express delivery).
-4. Test and optimise checkout flow for FINANCESETTLEMENT, BANKALFALAH, etc. Ensure zero friction (speed, error handling, mobile compatibility).
-5. Conduct post-purchase surveys for users of high-value methods to understand why they prefer it and what might improve their experience.
+4. **Test and optimise checkout flow** for FINANCESETTLEMENT, BANKALFALAH, etc. Ensure zero friction (speed, error handling, mobile compatibility).
+5. **Conduct post-purchase surveys for users of high-value methods** to understand why they prefer it and what might improve their experience.
 
 
+**Conclusion**
+In conclusion, the analysis provides critical insights into the performance of payment methods and their impact on order outcomes within the Pakistani e-commerce platform. From identifying the most frequently used and high-revenue payment methods, to understanding refund and fraud trends, this study uncovers actionable opportunities to optimise customer experience and drive profitability.
 
+By leveraging high-value payment methods more strategically, addressing refund-prone categories, and capitalising on seasonal sales peaks, the platform can strengthen both operational efficiency and customer loyalty.
+
+Moving forward, integrating predictive analytics (e.g. to anticipate refund-prone transactions) and refining customer segmentation strategies based on payment behaviour can further elevate performance. Continued data-driven decision-making will be essential in navigating competitive e-commerce dynamics and sustaining long-term growth.
 
 
 For a much more detailed analysis, refer to the SQL and Python files where statistical analysis is also performed. 
